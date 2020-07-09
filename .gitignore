@@ -1,4 +1,9 @@
+# project folder
 .idea
+
+# pre-commit config file
+.yaml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
